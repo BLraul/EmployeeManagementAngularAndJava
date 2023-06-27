@@ -2,8 +2,10 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+//mediul pentru dezvoltare este false pentru ca nu intram in productie
 export const environment = {
-  production: false
+  production: false,
+  apiBaseUrl: 'http://localhost:8080' //adresa URL a serverului pentru back-end-ul meu
 };
 
 /*
