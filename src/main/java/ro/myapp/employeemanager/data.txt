@@ -1,0 +1,28 @@
+    {
+        "email": "raul@gmail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+        "jobTitle": "JavaScript",
+        "name": "Raul Petrescu",
+        "phone": "4521235670"
+    }
+    {
+        "email": "paul@gmail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+        "jobTitle": "UX/UI",
+        "name": "Paul Paul",
+        "phone": "1234567890"
+    }
+    {
+        "email": "catalin@gmail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+        "jobTitle": "Java",
+        "name": "Catalin Birin",
+        "phone": "9876543210"
+    }
+    {
+            "email": "andrei@gmail.com",
+            "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+            "jobTitle": "Python",
+            "name": "Andrei Popescu",
+            "phone": "1564237824"
+        }
